@@ -14,7 +14,7 @@
 
 # Getting started
 
-👉 Follow the instructions at the following link to create a project for a collection of web components
+👉 Follow the instructions at the following link to create a project for a collection of web components  
 🔗 https://stenciljs.com/docs/getting-started 
 
 🏃 Create a component called `my-alert` that simply renders *"This is an important alert"* in a paragraph tag. Consume the component in the `index.html` file.
