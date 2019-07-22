@@ -9,7 +9,7 @@
 🏃 Exercise  
 🏆 Tough challenge  
 📄 Information  
-💬 Tip  
+💡 Tip  
 🔗 Link to useful information
 
 # Getting started
